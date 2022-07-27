@@ -1,0 +1,23 @@
+{
+  "name": "cise-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisbang2/CISE-React.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisbang2/CISE-React/issues"
+  },
+  "homepage": "https://github.com/harrisbang2/CISE-React#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
